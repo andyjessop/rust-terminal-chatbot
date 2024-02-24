@@ -1,6 +1,6 @@
 # Terminal-based Chatbot with Rust and OpenAI
 
-This project is a simple terminal-based chatbot built with Rust and leveraging the OpenAI API. It allows users to interact with OpenAI's powerful AI models directly from the command line. It was built to accompany the tutorial [How to Build a Terminal-based Chatbot with Rust and OpenAI](https://www.section.io/engineering-education/terminal-based-chatbot-rust-openai/).
+This project is a simple terminal-based chatbot built with Rust and leveraging the OpenAI API. It allows users to interact with OpenAI's powerful AI models directly from the command line. It was built to accompany the tutorial [Building a Terminal-based Chatbot in Rust from Scratch](https://dev.to/andyjessop/building-a-terminal-based-chatbot-in-rust-from-scratch-pf5).
 
 ## Features
 
